@@ -44,5 +44,5 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 
-int pos = IndexOf(array, 100);
+int pos = IndexOf(array, 9);
 Console.WriteLine(pos);
